@@ -100,4 +100,3 @@ Calendário de atividades do processo seletivo. Obs.: Fique atento(a) a esta pá
   
   
 
-[![foo](/assets/img/news/participe-selecao.png)](https://docs.google.com/forms/d/e/1FAIpQLSebOPSGYDnfMO6KJmP_ds1Z7R4n0KoOCYwGgNTaj5uYmyxaEg/viewform)
