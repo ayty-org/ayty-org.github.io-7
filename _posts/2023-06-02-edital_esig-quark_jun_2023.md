@@ -10,11 +10,11 @@ categories: edital
 Selecionados para a etapa técnica (3a etapa) no processo seletivo para projeto entre AYTY e ESIG.
 
 - David Gonçalves Maia
+- Fabricio Emmanuel Felizardo da Cruz
 - Gustavo Theotonio Silva 
 - Joanderson Trajano de Araujo
 - Lilian Gonçalves de Almeida
 - Lucas da Silva Freitas
-- Fabricio Emmanuel Felizardo da Cruz
 - Maximilian Maximiano Guilherme de Oliveira
 - Rian Manoel Pessoa
 
